@@ -1,0 +1,1 @@
+var json_ibukotakabupaten_4 = {"type":"FeatureCollection","name":"ibukotakabupaten_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","kab":"kota poso"},"geometry":{"type":"Point","coordinates":[120.747669238433318,-1.396191779021784]}}]}
